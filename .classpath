@@ -6,7 +6,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/Darpan/Libraries/junit-4.13.2.jar"/>
 	<classpathentry kind="lib" path="D:/Darpan/Libraries/hamcrest-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Darpan/Libraries/junit-4.13.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
